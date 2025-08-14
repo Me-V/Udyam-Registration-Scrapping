@@ -61,8 +61,63 @@ cd <your-repo-folder>
 ```
 ---
 
-⚙️ Backend Setup
+## ⚙️ Backend Setup
 ```cd backend
 npm install
 ```
 ---
+
+## Create a .env file
+```
+DATABASE_URL="postgresql://<username>:<password>@<host>:<port>/<db>?schema=public"
+PORT=5000
+
+```
+
+## Run Prisma migrations
+
+```
+npx prisma migrate dev
+
+```
+
+---
+
+## Start Backend
+```
+npm run dev
+```
+---
+## Start Frontend
+```
+cd frontend
+npm install
+```
+---
+
+## 🌐 Deployment
+--> Frontend (Vercel):
+Push your frontend folder to a GitHub repo → Import into Vercel → Deploy.
+
+--> Backend (Render):
+Push your backend folder to GitHub → Import into Render → Select Node.js → Set environment variables.
+
+---
+
+## 🧪 Testing
+For backend unit tests (Jest + Supertest):
+```
+cd backend
+npm test
+```
+## Deployment at 
+```
+openbiz.vercel.app
+```
+---
+
+## ✨ Author
+Vasu Sharma
+B.Tech CSE | J.C. Bose University
+📧 Email: vasusharma@example.com
+🌐 Portfolio: https://thvasu.varsal.app
