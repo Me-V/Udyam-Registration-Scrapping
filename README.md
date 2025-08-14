@@ -112,7 +112,7 @@ npm test
 ```
 ## Deployment at 
 ```
-openbiz.vercel.app
+openbiz-project.vercel.app
 ```
 ---
 
