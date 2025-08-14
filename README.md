@@ -119,5 +119,5 @@ openbiz-project.vercel.app
 ## ✨ Author
 Vasu Sharma
 B.Tech CSE | J.C. Bose University
-📧 Email: vasusharma@example.com
-🌐 Portfolio: https://thvasu.varsal.app
+📧 Email: vasu.eit.21cse140@gmail.com
+🌐 Portfolio: https://thvasu.vercel.app
