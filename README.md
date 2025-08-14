@@ -56,13 +56,13 @@ Deployed on **Vercel** (frontend) and **Render** (backend).
 
 ## ⚙️ Installation & Setup
 
-git clone <your-repo-url>
+```git clone <your-repo-url>
 cd <your-repo-folder>
-
+```
 ---
 
 ⚙️ Backend Setup
-cd backend
+```cd backend
 npm install
-
+```
 ---
