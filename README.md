@@ -1,4 +1,4 @@
-# Full-Stack Aadhaar & PAN Validation System
+# Open Biz Assignment (Udyam Aadhaar & PAN Validation System)
 
 A complete full-stack application built with **Node.js**, **Express**, **PostgreSQL**, **Prisma**, **React.js**, **Tailwind CSS**, and **Next.js**.  
 Deployed on **Vercel** (frontend) and **Render** (backend).  
